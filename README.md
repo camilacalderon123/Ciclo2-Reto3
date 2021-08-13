@@ -3,7 +3,7 @@
 La asegura ahora necesita de un sistema que le permita calcular la liquidación de la seguridad social de un empleado a partir de su salario 
 y el tiempo durante el cual prestó sus servicios laborales
 
-Para la realización de este reto de tuvo que haber hecho con el Reto 1 y 2.
+Para la realización de este reto se tuvo que haber cumplido con el Reto 1 y 2.
 
 ## 🤔¿Qué nos piden hacer?
 Junto con lo realizado en los dos retos anteriores, ahora se debe liquidar la nomina y parafiscales de un empleado.
